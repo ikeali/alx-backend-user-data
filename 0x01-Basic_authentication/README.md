@@ -1,51 +1,3 @@
-Skip to content
-Navigation Menu
-Sirtuns4real
-/
-alx-backend-user-data
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Breadcrumbsalx-backend-user-data
-/0x01-Basic_authentication/
-Directory actions
-Go to file
-t
-Add file
-More options
-Latest commit
-Sirtuns4real
-Sirtuns4real
-all files
-eaf35c1
- · 
-last year
-History
-Breadcrumbsalx-backend-user-data
-/0x01-Basic_authentication/
-Folders and files
-Name	Last commit message	Last commit date
-parent directory
-..
-api
-all files
-last year
-models
-all files
-last year
-README.md
-all files
-last year
-requirements.txt
-all files
-last year
-README.md
 Basic authentication
 This project contains tasks for learning to authenticate a user using the Basic authentication scheme.
 
@@ -202,4 +154,3 @@ Example for excluded_paths = ["/api/v1/stat*"]:
 /api/v1/users will return True.
 /api/v1/status will return False.
 /api/v1/stats will return False.
-alx-backend-user-data/0x01-Basic_authentication at main · Sirtuns4real/alx-backend-user-data
